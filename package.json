@@ -26,7 +26,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@bochilteam/scraper": "^4.0.22-alpha.0",
     "@hapi/boom": "^10.0.0",
-    "awesome-phonenumber": "^2.64.0",
+    "awesome-phonenumber": "^5.10.0",
     "javascript-obfuscator": "^4.0.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
